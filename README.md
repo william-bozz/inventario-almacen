@@ -38,9 +38,9 @@ Desarrollado completamente en C como proyecto de aprendizaje de estructuras, arc
 - Terminal
 
 ## Instalación en linux
-git clone https://github.com/william-bozz/inventario-almacen.git
-gcc inventario.c -o inventario
-./inventario
+- git clone https://github.com/william-bozz/inventario-almacen.git
+- gcc inventario.c -o inventario
+- ./inventario
 
 ## Uso
 
@@ -51,17 +51,17 @@ gcc inventario.c -o inventario
 
 ## Estructura del proyecto
 /inventario-almacen
---inventario.c #código fuente principales
---inventario.h #cabeceras y estructuras
---inventario.txt #archivo de datos (se genera automáticamente)
---README.md #documentación
---.gitignore #archivos ignorados
+-inventario.c #código fuente principales
+-inventario.h #cabeceras y estructuras
+-inventario.txt #archivo de datos (se genera automáticamente)
+-README.md #documentación
+-.gitignore #archivos ignorados
 
 ## Tecnologías
-· Lenguaje: C
-· Compilador: GCC
-· ID: Vim
-· Controlador de versiones: Git
+- Lenguaje: C
+- Compilador: GCC
+- IDE: Vim
+- Controlador de versiones: Git
 
 ## Autor
 · Github: william-bozz
